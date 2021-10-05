@@ -1,0 +1,36 @@
+body{
+    background-color: #e9eaea;
+    margin-left: 20mm;
+    margin-right: 20mm;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+h1{ 
+    
+    font-family: 'PT Sans', sans-serif;
+    color: #f65b5c;
+}
+.grijs{ color: grey ;
+
+}
+h2{
+    font-family: 'PT Sans', sans-serif;
+}
+h3{
+    font-family: 'PT Sans', sans-serif;
+}
+
+a{
+    background-color: #f65b5c;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+}
+p{
+    color: grey;
+    margin-right: 100mm;
+    font-family: 'PT Sans', sans-serif;
+    margin-bottom: 40px;
+}
